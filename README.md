@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | CS Graduate | Web3 & AI Enthusiast</h3>
 
 <p align="center">
-  You might notice my GitHub contribution graph is a bit quiet—that's because most of my recent commits, pipelines, and code reviews have been happening on enterprise GitLab repositories! 
+  You might notice my GitHub contribution graph is a bit quiet-that's because most of my recent commits, pipelines, and code reviews have been happening on enterprise repositories! 
 </p>
 
 ---
