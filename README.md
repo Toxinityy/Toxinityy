@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Education:** Recently graduated with a Bachelor's degree in Computer Science from UNPAR, specializing in Information Systems/Software Engineering. 
-* 💼 **Recent Experience:** Just wrapped up a Tech Internship at **Accenture**, where I focused on feature creation and system maintenance using **React, Python (Flask), and Redux**, all deployed via GitLab and Jenkins CI/CD.
+* 🎓 **Education:** Graduated with a Bachelor's degree in Computer Science (3.5 GPA), specializing in Information Systems/Software Engineering. 
+* 💼 **Recent Experience:** Just wrapped up a Tech Internship at **Accenture**, where I focused on feature creation and system maintenance using **React, Python (Flask), and Redux**, all deployed via Company's GitLab repositories.
 * 🔗 **Blockchain Work:** Previously developed **DChain**, an NFT-based certification website during my tenure as a Blockchain Developer Intern at DIKTI.
-* 🔭 **Currently Focusing On:** Building highly responsive frontends, exploring algorithmic crypto trading models, and diving deeper into Web3 communities.
+* 🔭 **Currently Focusing On:** Building highly responsive frontends, exploring algorithmic crypto trading models, and diving deeper into AI Ecosystems.
 * 📫 **How to reach me:** [williamask112@gmail.com](mailto:williamask112@gmail.com)
 
 ---
