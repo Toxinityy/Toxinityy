@@ -12,7 +12,7 @@
 * 🎓 **Education:** Recently graduated with a Bachelor's degree in Computer Science from UNPAR, specializing in Information Systems/Software Engineering. 
 * 💼 **Recent Experience:** Just wrapped up a Tech Internship at **Accenture**, where I focused on feature creation and system maintenance using **React, Python (Flask), and Redux**, all deployed via GitLab and Jenkins CI/CD.
 * 🔗 **Blockchain Work:** Previously developed **DChain**, an NFT-based certification website during my tenure as a Blockchain Developer Intern at DIKTI.
-* 🔭 **Currently Focusing On:** Building responsive frontends, exploring algorithmic crypto trading models, and diving deeper into AI ecosystems.
+* 🔭 **Currently Focusing On:** Building highly responsive frontends, exploring algorithmic crypto trading models, and diving deeper into Web3 communities.
 * 📫 **How to reach me:** [williamask112@gmail.com](mailto:williamask112@gmail.com)
 
 ---
@@ -54,15 +54,4 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> 
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toxinityy&show_icons=true&theme=radical&hide_border=true" alt="William's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toxinityy&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
