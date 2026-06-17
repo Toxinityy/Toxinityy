@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Arthur</h1>
-<h3 align="center">Frontend Developer | CS Graduate | Web3 & AI Enthusiast</h3>
+<h3 align="center">Frontend Developer | Web3 & AI Enthusiast</h3>
 
 <p align="center">
   You might notice my GitHub contribution graph is a bit quiet-that's because most of my recent commits, pipelines, and code reviews have been happening on enterprise repositories! 
@@ -8,8 +8,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-* 🎓 **Education:** Graduated with a Bachelor's degree in Computer Science (3.5 GPA), specializing in Information Systems/Software Engineering. 
 * 💼 **Recent Experience:** Just wrapped up a Tech Internship at **Accenture**, where I focused on feature creation and system maintenance using **React, Python (Flask), and Redux**, all deployed via Company's GitLab repositories.
 * 🔗 **Blockchain Work:** Previously developed **DChain**, an NFT-based certification website during my tenure as a Blockchain Developer Intern at DIKTI.
 * 🔭 **Currently Focusing On:** Building highly responsive frontends, exploring algorithmic crypto trading models, and diving deeper into AI Ecosystems.
