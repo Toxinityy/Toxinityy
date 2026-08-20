@@ -1,203 +1,181 @@
-<!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=William%20Arthur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20·%20Web3%20·%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=WILLIAM%20ARTHUR&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%7C%20Frontend%20%7C%20Web3%20%7C%20AI&descAlignY=66&descSize=16&descColor=355E58" width="100%" alt="William Arthur"/>
 
-<a href="https://williamask.my.id">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+responsive+frontends.;Exploring+algorithmic+crypto+models.;Diving+deep+into+AI+ecosystems." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- ══════════════════ SOCIAL BADGES ══════════════════ -->
-<a href="https://williamask.my.id">
-  <img src="https://img.shields.io/badge/PORTFOLIO-williamask.my.id-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio"/>
-</a>
-<a href="mailto:williamask112@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<p>
+  <a href="https://williamask.my.id"><img src="https://img.shields.io/badge/Portfolio-williamask.my.id-355E58?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/william-arthur-sandy-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+  <a href="mailto:williamask112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+  <a href="https://github.com/toxinityy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+</p>
 
 </div>
 
-<br/>
+---
 
-> [!NOTE]
-> **My contribution graph looks quiet — here's why.**
-> Most of my recent commits, pipelines, and code reviews live inside enterprise repositories.
-> The real portfolio lives at **[williamask.my.id](https://williamask.my.id)** →
+### About
 
-<br/>
+Software and full-stack engineer with a **Software Engineering** specialization, working where intelligence meets verifiability — on-chain forecasting protocols, agent infrastructure, and developer tools that feel effortless to use. Every project is an excuse to go one layer deeper.
 
-<!-- ══════════════════ ABOUT ══════════════════ -->
-
-## 🧭 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" width="280" alt="coding"/>
+My contribution graph is quieter than the work behind it — most recent commits, pipelines, and code reviews live in enterprise repositories. The full archive is at **[williamask.my.id](https://williamask.my.id)**.
 
 ```yaml
-name: William Arthur
-role: Frontend Developer
-location: Bandung, Indonesia
-portfolio: williamask.my.id
-
-focus:
-  - Highly responsive, accessible frontends
-  - Algorithmic crypto trading models
-  - AI ecosystems & agent tooling
-
-currently_learning: ["System Design", "LLM Engineering"]
-open_to: ["Collaboration", "Freelance", "Coffee chats ☕"]
+name:       William Kurniawan
+role:       Software Engineer / Full Stack
+location:   Jakarta, Indonesia
+education:  BSc Computer Science — Software Engineering
+focus:      [ AI systems, crypto, developer tools ]
+portfolio:  williamask.my.id
+open_to:    [ collaboration, freelance, coffee chats ]
 ```
 
-**💼 Recent** — Wrapped up a Tech Internship at **Accenture**, shipping features and maintaining systems with **React, Python (Flask), and Redux**, deployed through internal GitLab pipelines.
+---
 
-**🔗 Blockchain** — Built **DChain**, an NFT-based certification platform, as a Blockchain Developer Intern at **DIKTI**.
+### Software Engineering
 
-**📫 Reach me** — [williamask112@gmail.com](mailto:williamask112@gmail.com)
+How I approach building things beyond just making them work.
 
-<br clear="right"/>
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge&logo=hexo&logoColor=355E58" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-0D1117?style=for-the-badge&logo=blueprint&logoColor=355E58" alt="Design Patterns"/>
+  <img src="https://img.shields.io/badge/Testing-0D1117?style=for-the-badge&logo=jest&logoColor=355E58" alt="Testing"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=gitlab&logoColor=355E58" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Code%20Review-0D1117?style=for-the-badge&logo=github&logoColor=355E58" alt="Code Review"/>
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0D1117?style=for-the-badge&logo=jira&logoColor=355E58" alt="Agile"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=355E58" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=databricks&logoColor=355E58" alt="System Design"/>
+</p>
+
+- **Ports & Adapters** — decoupling core logic from frameworks and vendors so swapping either costs a day, not a rewrite
+- **Version control discipline** — atomic commits, meaningful branches, reviewable diffs
+- **Testing & maintainability** — code that survives contact with a second developer
+- **Deployment pipelines** — GitLab CI workflows in an enterprise environment at Accenture
 
 ---
 
-<!-- ══════════════════ TECH STACK ══════════════════ -->
+### Experience
 
-## 🛠️ Tech Stack
+**Accenture** · Tech Intern
+Feature development and system maintenance on internal platforms using **React**, **Python (Flask)**, and **Redux**, deployed through company GitLab pipelines.
 
-<details open>
-<summary><b>🎨 Frontend & Design</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, Web3 & Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-</details>
+**DIKTI** · Blockchain Developer Intern
+Built **DChain**, an NFT-based certification platform for verifiable academic credentials.
 
 ---
 
-<!-- ══════════════════ PROJECTS ══════════════════ -->
+### Tech Stack
 
-## 🚀 Featured Work
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+**Web3, Cloud & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+</p>
+
+---
+
+### Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 DChain
-NFT-based certification platform for verifiable academic credentials. Built during my Blockchain Developer internship at **DIKTI**.
+#### [Noetrix](https://williamask.my.id/work/noetrix) · 2026
 
-`Solidity` `Next.js` `Web3`
+On-chain leaderboard that scores AI forecasters against real outcomes.
+
+`Next.js` `Solidity` `Mantle` `IPFS`
+
+[Live Demo ↗](https://noetrix.vercel.app/) · [Case study →](https://williamask.my.id/work/noetrix)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Algorithmic Trading Research
-Backtesting frameworks and market-structure experiments across crypto pairs — signal design, risk sizing, execution.
+#### [Lloyd](https://williamask.my.id/work/lloyd) · 2026
 
-`Python` `Pandas` `Quant`
+Automatic insurance for agent work, priced from on-chain reputation.
+
+`Next.js` `Supabase` `X Layer` `MCP`
+
+[Live Demo ↗](https://lloyd-kappa.vercel.app/) · [Case study →](https://williamask.my.id/work/lloyd)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Agent Tooling
-Exploring LLM orchestration, retrieval pipelines, and provider-agnostic interfaces for building with models.
+#### [Bekas AI](https://williamask.my.id/work/bekas) · 2026
 
-`Python` `FastAPI` `LLMs`
+AI that lists, negotiates and settles preloved sales across four marketplaces.
+
+`Next.js` `Lisk` `IDRX` `ERC-8004`
+
+[Live Demo ↗](https://bekas-ai.vercel.app/) · [Case study →](https://williamask.my.id/work/bekas)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 williamask.my.id
-My personal portfolio — case studies, writing, and the projects that don't fit in a README.
+#### [Backtest Lab](https://williamask.my.id/work/backtest-lab) · 2026
 
-**[→ Visit the site](https://williamask.my.id)**
+Strategy backtests and Monte Carlo FX risk, run as reproducible notebooks.
+
+`Python` `pandas` `Monte Carlo` `Backtesting`
+
+[Case study →](https://williamask.my.id/work/backtest-lab)
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ══════════════════ STATS ══════════════════ -->
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=c9d1d9&line=8B5CF6&point=EC4899&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
+<div align="center"><sub>Full case studies at <a href="https://williamask.my.id">williamask.my.id</a></sub></div>
 
 ---
 
-<!-- ══════════════════ FOOTER ══════════════════ -->
+### GitHub
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=toxinityy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=355E58&icon_color=355E58&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxinityy&layout=compact&hide_border=true&bg_color=0D1117&title_color=355E58&text_color=8B949E&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
 
 <div align="center">
-
-### 💬 Let's build something
-
-Open to collaboration, freelance work, and conversations about frontends, markets, or models.
-
-<a href="https://williamask.my.id">
-  <img src="https://img.shields.io/badge/→%20See%20the%20full%20portfolio-williamask.my.id-8B5CF6?style=for-the-badge&labelColor=1a1b27" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<i>"The best code is the code that ships."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
-
+<sub>Open to collaboration and freelance work · <a href="mailto:williamask112@gmail.com">williamask112@gmail.com</a> · <a href="https://williamask.my.id">williamask.my.id</a></sub>
 </div>
