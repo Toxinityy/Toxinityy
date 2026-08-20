@@ -167,15 +167,6 @@ Strategy backtests and Monte Carlo FX risk, run as reproducible notebooks.
 
 ---
 
-### GitHub
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=toxinityy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=355E58&icon_color=355E58&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxinityy&layout=compact&hide_border=true&bg_color=0D1117&title_color=355E58&text_color=8B949E&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 <div align="center">
 <sub>Open to collaboration and freelance work · <a href="mailto:williamask112@gmail.com">williamask112@gmail.com</a> · <a href="https://williamask.my.id">williamask.my.id</a></sub>
 </div>
