@@ -20,13 +20,12 @@ Software and full-stack engineer with a **Software Engineering** specialization,
 My contribution graph is quieter than the work behind it — most recent commits, pipelines, and code reviews live in enterprise repositories. The full archive is at **[williamask.my.id](https://williamask.my.id)**.
 
 ```yaml
-name:       William Kurniawan
+name:       William Arthur
 role:       Software Engineer / Full Stack
 location:   Jakarta, Indonesia
 education:  BSc Computer Science — Software Engineering
 focus:      [ AI systems, crypto, developer tools ]
 portfolio:  williamask.my.id
-open_to:    [ collaboration, freelance, coffee chats ]
 ```
 
 ---
